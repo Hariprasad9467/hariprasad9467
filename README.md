@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Hari Prasad Bandela</h1>
-<h3 align="center">A passionate Java full stack web developer from India</h3>
+<h3 align="center">A passionate Flutter developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hariprasad9467&label=Profile%20views&color=0e75b6&style=flat" alt="hariprasad9467" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hariprasad9467" alt="hariprasad9467" /></a> </p>
 
-- 🔭 I’m currently working on **Food App Delivery project**
+- 🔭 I’m currently working on **E-Commerce project**
 
-- 🌱 I’m currently learning **Spring Framework, Data Structures**
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hariprasad9467](https://github.com/Hariprasad9467)
 
-- 💬 Ask me about **Core Java, Hibernate**
+- 💬 Ask me about **Flutter .dart, Node js**
 
-- 📫 How to reach me **bandelahariprasad9999@gmail.com**
+- 📫 How to reach me **hariprasadbandela1626@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1TM2b7-amM3UJ9kkJBh1EXX5bAxbcuX6x/view?usp=drive_link](https://drive.google.com/file/d/1TM2b7-amM3UJ9kkJBh1EXX5bAxbcuX6x/view?usp=drive_link)
 
